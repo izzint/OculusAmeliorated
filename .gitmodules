@@ -1,0 +1,3 @@
+[submodule "Libs/OculusCore"]
+	path = Libs/OculusCore
+	url = https://github.com/BnuuySolutions/OculusCore
